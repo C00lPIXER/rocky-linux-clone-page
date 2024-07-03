@@ -1,0 +1,111 @@
+@media (max-width: 1440px){
+    #heder-main-text{
+        margin-top: 100px !important;
+    }
+    #heder-main-text h1{
+        font-size: 60px !important;
+    }
+    #section-2-image{
+        width: 100%;
+        margin-top: 60px !important;
+        border: 15px solid rgb(199, 199, 199);
+        border-radius: 10px;
+    }
+    #section-5-cards{
+        min-width: 220px !important;
+        height: 104px;
+        margin: 10px;
+    }
+    #footer-section{
+        margin-top: 200px;
+    }
+    #footer-p{
+        font-size: 12px;
+    }
+    #btn-at-nv{
+        display: none !important;
+    }
+}
+@media (min-width: 1440px){
+    #heder-main-text{
+        margin-top: 100px !important;
+    }
+    #heder-main-text h1{
+        font-size: 60px !important;
+    }
+    #section-2-image{
+        width: 100%;
+        margin-top: 60px !important;
+        border: 15px solid rgb(199, 199, 199);
+        border-radius: 10px;
+    }
+    #section-3-body{
+        margin-top: 180px;
+    }
+    
+    #section-4-divs-one{
+        width: 400px;
+    }
+    #section-5-cards{
+        min-width: 220px !important;
+        height: 104px;;
+        margin: 10px;
+    }
+    #footer-section{
+        margin-top: 200px;
+    }
+    #footer-p{
+        font-size: 12px;
+    }
+    #btn-at-nv{
+        display: none !important;
+    }
+}
+@media (max-width: 1024px){
+    #section-4-divs-one{
+        width: 100%;
+    }
+    #btn-at-nv{
+        display: none !important;
+    }
+}
+@media (max-width: 800px){
+    #btn-at-nv{
+        color: black !important;
+        display: contents !important;
+    }
+    #nav-bar-links{
+        display: none !important;
+    }
+    #btn-at-nv-bar{
+        display: none !important;
+    }
+}
+@media (max-width: 425px){
+    #heder-main-text{
+        margin-top: 70px !important;
+    }
+    #heder-main-text h1{
+        font-size: 35px !important;
+    }
+    #image-header{
+        width: 150px;
+    }
+    #section-2-image{
+        width: 100%;
+        margin-top: 60px !important;
+        border: 8px solid rgb(199, 199, 199);
+        border-radius: 5px;
+    }
+    #section-5-cards{
+        min-width: 220px !important;
+        height: 104px;
+        margin: 10px;
+    }
+    #footer-section{
+        margin-top: 200px;
+    }
+    #footer-p{
+        font-size: 12px;
+    }
+}
